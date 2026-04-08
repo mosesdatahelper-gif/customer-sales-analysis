@@ -18,10 +18,13 @@ This project analyzes customer purchasing behavior and product performance using
 
 ## Key Insights
 
-* C1 is the highest-value customer
-* Laptop is the top-performing product
-* Revenue decreased from January to February
-* Revenue is concentrated among top customers
+- Revenue is heavily concentrated in Laptop sales, indicating dependency on a single product category.
+
+- Customer C1 contributes the highest share of revenue, suggesting a small number of customers drive business performance.
+
+- Revenue declined significantly from January to February, which may indicate seasonality or reduced demand.
+
+- Overall revenue distribution shows concentration in a few products and customers, which may pose a business risk.
 
 ## Files
 
